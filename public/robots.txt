@@ -1,0 +1,6 @@
+# Permissions
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://pilarcleaning.com/sitemap.xml
