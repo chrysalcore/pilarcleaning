@@ -1,0 +1,32 @@
+.banner.section:nth-child(even) {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+    padding: 1rem 1rem;
+}
+
+.banner-link {
+    flex: 0 0 min(15rem, 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.banner-link__name {
+    font-size: 0.9rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+}
+
+.banner-link__text {
+    font-size: 0.9rem;
+}
+
+@media screen and (min-width: 1024px) {
+    .banner.section:nth-child(even) {
+        padding: 1rem 15dvw;
+    }
+}
