@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg class="shape" data-name="Capa 1" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100">
+    <g> 
+        <path d="M907 83c-55 6-97-5-109-8-44-12-44-24-101-43-36-13-63-22-97-21-46 2-81 21-100 33-19-12-54-31-100-33-34-1-61 8-97 21-57 20-57 31-101 43-12 3-54 14-109 8A306 306 0 010 59v43h1000V59a306 306 0 01-93 24z" style="fill: #fadcef; stroke-width: 0px;"/>
+        <path d="M50 64s76 32 155-2c0 0-65 21-155 2z" opacity=".5" style="fill: #fadcef; stroke-width: 0px;"/>
+        <path d="M80 56s47 20 95-1c0 0-40 13-95 1z" opacity=".3" style="fill: #fadcef; stroke-width: 0px;"/>
+        <path d="M801 64s76 32 155-2c0 0-65 21-155 2z" opacity=".5" style="fill: #fadcef; stroke-width: 0px;"/>
+        <path d="M831 56s47 20 95-1c0 0-40 13-95 1z" opacity=".3" style="fill: #fadcef; stroke-width: 0px;"/> 
+    </g>
+</svg>
