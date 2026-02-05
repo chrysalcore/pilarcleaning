@@ -1,16 +1,80 @@
-# React + Vite
+# Pilar Clieaning Services Front-end
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Business website for Pilar Cleaning Services company with all their projects and services.
 
-Currently, two official plugins are available:
+[![React](https://img.shields.io/badge/React_19.1.1-blue)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/React_Router_DOM_7.9.4-blue)](https://reactrouter.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow)](https://developer.mozilla.org/es/docs/Web/JavaScript/)
+[![Vite](https://img.shields.io/badge/Vite_7.1.2-yellow)](https://vitejs.dev/)
+[![License](https://img.shields.io/badge/Polyform_Perimeter_License_1.0.0-red)](LICENSE)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Preview
 
-## React Compiler
+Live Link: [https://pilarcleaning.com](https://pilarcleaning.com)
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+## Description
 
-## Expanding the ESLint configuration
+**Pilar Clieaning Services Front-end** was created to establish an online presence for Pilar Cleaning Services LLC, which serves Salem, Roanoke, Vinton, and surrounding areas in Virginia.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The site has three pages with several sections, displaying a services, business information and contact details
+
+The code was written using React, state management, routing and componentization; the BEM methodology, adhering to best practices, responsiveness, accessibility, and other web standards. Its development emphasized SEO, local search, fast loading speed, and user experience.
+
+## Main Features
+
+- Advanced state management.
+- Components with JavaScript.
+- Responsive UI/UX: Interface designed with CSS that adapts to all devices.
+- Smooth scrolling and a fluid user experience.
+
+## Technologies Used
+
+| Category | Technologies |
+| :--- | :--- |
+| Frontend & Language | React 19, JavaScript, Vite |
+| State Management | useState |
+| Routing | React Router DOM v7 |
+| Style | CSS |
+| Tools | ESLint |
+| Version Control | Git, GitHub |
+| Deployment | Hostinger |
+
+## Local Installation and Use
+
+Follow these steps to run the project on your local machine.
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/es/)
+- [NPM](https://www.npmjs.com)
+
+### Steps
+
+1. Clone the repository
+
+    ```bash
+    git clone https://github.com/chrysalcore/pilarcleaning.git
+    cd pilarcleaning
+    ```
+
+2. Install dependencies
+
+    ```bash
+    npm install
+    ```
+
+3. Run development mode
+
+    ```bash
+    npm run dev
+    ```
+
+## License
+
+This project is licensed under the [PolyForm Perimeter License 1.0.0](LICENSE)
+
+### Key Restrictions
+
+- Free use for **non-commercial projects**.
+- Use **prohibited** in businesses that compete with the owner.
+- **Contact the owner** for a commercial license.
